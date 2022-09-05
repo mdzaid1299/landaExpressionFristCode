@@ -1,2 +1,2 @@
-package PACKAGE_NAME;public class impl {
+public class impl {
 }
