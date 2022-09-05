@@ -51,7 +51,14 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.OddI8mpl">
+    <configuration name="EvenOddImpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EvenOddImpl" />
+      <module name="j" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="OddI8mpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="OddI8mpl" />
       <module name="j" />
@@ -62,6 +69,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.OddI8mpl" />
+        <item itemvalue="Application.EvenOddImpl" />
       </list>
     </recent_temporary>
   </component>
